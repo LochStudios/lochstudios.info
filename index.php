@@ -12,7 +12,7 @@
 		<!-- Header -->
 			<section id="header">
 				<header>
-					<span class="image avatar"><a href="https://lochstudios.info/"><img src="https://lscdn.site/static/logos/lochstudios/black-logo.png" alt="LochStudios Logo" /></a></span>
+					<span class="image avatar"><a href="../"><img src="https://lscdn.site/static/logos/lochstudios/black-logo.png" alt="LochStudios Logo" /></a></span>
 					<h1 id="logo">LochStudios</h1>
 					<h5>Hosting with care, all around the world!</h5>
 					<p><a href="mailto:customercare@lochstudios.com">customercare@lochstudios.com</a><p>
@@ -23,7 +23,7 @@
 						<li><a href="#info">Our Websites</a></li>
 						<li><a href="#contact">Contact</a></li>
 						<li><a href="#faq">FAQ's</a></li>
-						<li><a href="privacy-policy.html#pp">Privacy Policy</a></li>
+						<li><a href="privacy-policy.php#pp">Privacy Policy</a></li>
 					</ul>
 				</nav>
 				<footer>
