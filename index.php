@@ -91,7 +91,7 @@
 									<br><strong>Switch Board (NZ)</strong>: <a href="tel:+6498708886">+64 (9) 870-8886</a>
 									<br><strong>Switch Board (USA)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a>
 									<br><strong>Switch Board (UK)</strong>: COMING SOON
-									<br><strong>FAX</strong>: (02) 5632-3095
+									<br><strong>FAX (AU)</strong>: +61 (2) 5632-3095
 									<br><strong>FAX (USA)</strong>: +1 (315) 909-6136
 									<br><strong>TEXT MSG</strong>: 0480-001-064
 									<br><strong>WhatsApp</strong>: +614 8000-1064
