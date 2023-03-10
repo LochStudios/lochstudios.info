@@ -87,9 +87,9 @@
 									<br>
 									<br><strong>Mail Contact</strong>: PO Box 219, South Grafton, New South Wales, 2460, Australia.
 									<br><strong>On Location</strong>: Shop 5 - 70 Prince Street, Grafton, New South Wales, 2460, Australia.
-									<br><strong>Switch Board</strong>: <a href="tel:+61256323092">(02) 5632-3092</a>
-									<br><strong>Switch Board (USA)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a>
+									<br><strong>Switch Board (AU)</strong>: <a href="tel:+61256323092">+61 (2) 5632-3092</a>
 									<br><strong>Switch Board (NZ)</strong>: <a href="tel:+6498708886">+64 (9) 870-8886</a>
+									<br><strong>Switch Board (USA)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a>
 									<br><strong>Switch Board (UK)</strong>: COMING SOON
 									<br><strong>FAX</strong>: (02) 5632-3095
 									<br><strong>FAX (USA)</strong>: +1 (315) 909-6136
