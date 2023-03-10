@@ -94,7 +94,7 @@
 									<br><strong>FAX (AU)</strong>: +61 (2) 5632-3095
 									<br><strong>FAX (USA)</strong>: +1 (315) 909-6136
 									<br><strong>TEXT MSG</strong>: 0480-001-064
-									<br><strong>WhatsApp</strong>: +614 8000-1064
+									<br><strong>WhatsApp</strong>: +614-8000-1064
 									<br><strong>Remote Support</strong>: <a href="tel:1300989567">1300 989 567</a>
 									<br><strong>Conference Bridge</strong>: <a href="tel:+61256268063">(02) 5626-8063</a>
 									<br>
