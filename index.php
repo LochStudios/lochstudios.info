@@ -124,12 +124,17 @@
 									<br><br>
 									<strong>Q:</strong> I got a phone call from you, how do I know it's you calling?
 									<br>
-									<strong>A:</strong> We call from one of three numbers: <strong><a href="tel:+61256323092">(02) 5632-3092</a></strong>, <strong><a href="tel:+13158796488">+1 (315) 879-6488</a></strong>, <strong><a href="tel:+61492811367">0492-811-367</a></strong> or <strong><a href="tel:+61480001064">0480-001-064</a></strong><br>
+									<strong>A:</strong> We call from one of following numbers:<br>
+														<strong>Australian Customers: (02) 5632-3092</strong><br>
+														<strong>United Kingdom Customers: COMING SOON</strong><br>
+														<strong>New Zealand Customers: (09) 870-8886</strong><br>
+														<strong>United States Customers: (315) 879-6488</strong><br>
 									If you called one of these numbers back, the first thing you'll hear is our name, LochStudios.<br>"Thanks for calling LochStudios..." That's how you know it's us.
 									<br><br>
 									<strong>Q:</strong> You have so many numbers, you don't have a number for what I need, how can I talk to someone?
 									<br>
-									<strong>A:</strong> If you call this direct line: <strong><a href="tel:+61256546402">(02) 5654-6402</a></strong> you'll be able to talk with someone, they'll take your information and send it over to the correct place for you and someone will be in touch with you within 1 business day.
+									<strong>A:</strong> If you call this direct line to our reception team, they will take your name and number and the right person will call you back: <strong><a href="tel:+61256546402">(02) 5654-6402</a></strong>.<br>
+									Make sure you give them the corret information and a team member will be in touch with you within 1 business day.
 									</p>
 								</dev>
 							</section>
