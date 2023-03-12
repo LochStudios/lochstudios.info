@@ -90,12 +90,12 @@
 									<br><strong>Switch Board (AU)</strong>: <a href="tel:+61256323092">+61 (2) 5632-3092</a>
 									<br><strong>Switch Board (NZ)</strong>: <a href="tel:+6498708886">+64 (9) 870-8886</a>
 									<br><strong>Switch Board (USA)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a>
-									<br><strong>Switch Board (UK)</strong>: <a href="+442080899548">02080 899 548</a>
+									<br><strong>Switch Board (UK)</strong>: <a href="+442080899548">+44 2080 899 548</a>
 									<br><strong>FAX (AU)</strong>: +61 (2) 5632-3095
 									<br><strong>FAX (USA)</strong>: +1 (315) 909-6136
-									<br><strong>TEXT MSG</strong>: 0480-001-064
-									<br><strong>WhatsApp</strong>: +614-8000-1064
+									<br><strong>TEXT MSG/WhatsApp</strong>: +614-8000-1064
 									<br><strong>Remote Support</strong>: <a href="tel:1300989567">1300 989 567</a>
+									<br><strong>Short Code</strong>: <a href="tel:+611300257727">1300 2 LSPCR (57727)</a>
 									<br><strong>Conference Bridge</strong>: <a href="tel:+61256268063">(02) 5626-8063</a>
 									<br>
 									<br><strong>LSPCR - Computer Work Shop Contact Information:</strong>
