@@ -90,7 +90,7 @@
 									<br><strong>Switch Board (AU)</strong>: <a href="tel:+61256323092">+61 (2) 5632-3092</a>
 									<br><strong>Switch Board (NZ)</strong>: <a href="tel:+6498708886">+64 (9) 870-8886</a>
 									<br><strong>Switch Board (USA)</strong>: <a href="tel:+13158796488">+1 (315) 879-6488</a>
-									<br><strong>Switch Board (UK)</strong>: COMING SOON
+									<br><strong>Switch Board (UK)</strong>: <a href="+442080899548">02080 899 548</a>
 									<br><strong>FAX (AU)</strong>: +61 (2) 5632-3095
 									<br><strong>FAX (USA)</strong>: +1 (315) 909-6136
 									<br><strong>TEXT MSG</strong>: 0480-001-064
@@ -126,7 +126,7 @@
 									<br>
 									<strong>A:</strong> We call from one of following numbers:<br>
 														<strong>Australian Customers: (02) 5632-3092</strong><br>
-														<strong>United Kingdom Customers: COMING SOON</strong><br>
+														<strong>United Kingdom Customers: 02080 899 548</strong><br>
 														<strong>New Zealand Customers: (09) 870-8886</strong><br>
 														<strong>United States Customers: (315) 879-6488</strong><br>
 									If you called one of these numbers back, the first thing you'll hear is our name, LochStudios.<br>"Thanks for calling LochStudios..." That's how you know it's us.
