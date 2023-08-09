@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   </head>
   <body>
-
     <!-- Start Top Bar -->
     <div class="title-bar" data-responsive-toggle="mobile-menu" data-hide-for="medium">
       <button class="menu-icon" type="button" data-toggle="mobile-menu"></button>
@@ -84,9 +83,7 @@
         	<h3><strong>What rights you have over your data</strong></h3>
         		<p>If you have an account on any of our sites, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
 		</div>
-
-	<hr>
-
+	  <hr>
     <div class="row column">
       <ul class="menu">
       <li>Copyright &copy; <?php echo date("Y"); ?> All rights reserved.<br><strong>LochStudios</strong> and any of <strong>LochStudios</strong> subsidiaries are registered under ABN: <strong>20 447 022 747</strong><br>
