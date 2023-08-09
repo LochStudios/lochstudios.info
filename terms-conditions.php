@@ -57,7 +57,7 @@
           <h3><strong>Customer requirements</strong></h3>
           <h4><strong>The Customer must:</strong></h4>
           <p>Provide LochStudios with such information and assistance necessary to enable LochStudios to provide the Hosting Services;
-          <br>Have all resources necessary to receive the Hosting Services, including hardware, software, telecommunications resources and internet access acceptable to our network powered by "Mammoth Media Pty Ltd";
+          <br>Have all resources necessary to receive the Hosting Services, including hardware, software, telecommunications resources and internet access acceptable to our network powered by "<a href="https://www.mammoth.com.au/legal" target="_blank">Mammoth Media Pty Ltd</a>";
           <br>Not do or attempt to do any of the following as discribed below:
           <ul>
           <li>The Customer has not performed or will never perform any illegal or unlawful acts in connection with receipt or use of the Hosting Services</li>
@@ -82,7 +82,7 @@
           <h3><stong>Backups</stong></h3>
           <p>The Customer acknowledges and agrees that LochStudios will take backups or otherwise preserve any data or applications stored or used in connection with the Hosting Services on backup servers located offsite to the Hosting Service.</p>
           <h3><strong>Invoices</strong></h3>
-          <p>LochStudios will invoice the Customer for any and all services that the Customer uses.</p>
+          <p>LochStudios will invoice the Customer for any and all services that the Customer has.</p>
           <p>If the Customer Fails to pay the invoice(s) in accordance with this agreement, without limiting any other remedies available to LochStudios, LochStudios may defer performance of all Hosting Services until the outstanding invoice(s) are paid in full.</p>
           <h3><strong>Intellectual Property</strong></h3>
           <p>All content published and made available on our site is the property of LochStudios and the site's creators. This includes, but is not limited to images, text, logos, documents, downloadable files and anything that contributes to the composition of our Site.</p>
