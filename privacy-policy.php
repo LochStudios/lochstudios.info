@@ -45,18 +45,18 @@
       </div>
       <div class="medium-6 columns medium-pull-6">
         <h2>LochStudios Privacy Policy</h2>
-		<h3>Who we are:</h3>
-        <p>Our website addresses are:</p>
-		<li>lochstudios.info</li>
-        <li>packages.lochstudios.com</li>
-        <li>media.lochstudios.com</li>
-        <li>getyourwebsite.net.au</li>
-        <li>lscomputerrepair.com</li>
-		<li>fourflavors.net</li>
-		<li>mystorage-dashboard.com</li>
-        <li>sentral.network</li>
-        <li>yourhost.zone</li>
-        <li>yourminecraft.host</li><br>
+		    <h3>Who we are:</h3>
+            <p>Our website addresses are:</p>
+		    <li>lochstudios.info</li>
+            <li>packages.lochstudios.com</li>
+            <li>media.lochstudios.com</li>
+            <li>getyourwebsite.net.au</li>
+            <li>lscomputerrepair.com</li>
+		    <li>fourflavors.net</li>
+		    <li>mystorage-dashboard.com</li>
+            <li>sentral.network</li>
+            <li>yourhost.zone</li>
+            <li>yourminecraft.host</li><br>
       </div>
     </div>
 	<hr>
