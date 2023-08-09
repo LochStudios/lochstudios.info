@@ -122,7 +122,7 @@
     </div>
     <hr>
     <section id="faq"></section>
-    <div class="row">
+    <div class="row column">
         <h3><strong>Frequently Asked Questions:</strong></h3>
         <p>What have people asked so much, we've put the answers here:
           <br><br>
