@@ -19,10 +19,10 @@
       <div class="top-bar-left">
         <ul class="dropdown vertical medium-horizontal menu" data-responsive-menu="drilldown medium-dropdown hinge-in-from-top hinge-out-from-top">
           <li class="menu-text">LochStudios</li>
-          <li><a href="index.php/#about">About</a></li>
-          <li><a href="index.php/#websites">Our Websites</a></li>
-          <li><a href="index.php/#contact">Contact</a></li>
-          <li><a href="index.php/#faq">FAQs</a></li>
+          <li><a href="../#about">About</a></li>
+          <li><a href="../#websites">Our Websites</a></li>
+          <li><a href="../#contact">Contact</a></li>
+          <li><a href="../#faq">FAQs</a></li>
           <li><a href="privacy-policy.php">Privacy Policy</a></li>
           <li class="is-active"><a href="terms-conditions.php">Terms & Conditions</a></li>
         </ul>
