@@ -46,7 +46,7 @@
     <div class="medium-6 columns medium-pull-6">
         <h3><strong>LochStudios Terms & Conditions</strong></h3>
         <p>Welcome to LochStudios! These terms and conditions are important, so please read them carefully. By using our website, you agree to follow these rules. If you have any questions, feel free to contact us.</p>
-        <p><strong>Effective Date:</strong> August 9th, 2023</p>
+        <p><strong>Effective Date:</strong> 22nd day of April, 2024</p>
     </div>
 </div>
 <hr>
