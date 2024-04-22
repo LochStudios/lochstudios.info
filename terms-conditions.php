@@ -45,45 +45,40 @@
     </div>
     <div class="medium-6 columns medium-pull-6">
         <h3><strong>LochStudios Terms & Conditions</strong></h3>
-        <p>These terms and conditions govern the use of lochstudios.com and any of LochStudios' websites (the "Site").
-            <br>This site is owned and operated by LochStudios.
-            <br>By using this site, you indicate that you have read and understand these terms and conditions and agree to abide by them at all times.
-            <br><strong>Effective date: 22nd day of April, 2024</strong></p>
+        <p>Welcome to LochStudios! These terms and conditions are important, so please read them carefully. By using our website, you agree to follow these rules. If you have any questions, feel free to contact us.</p>
+        <p><strong>Effective Date:</strong> August 9th, 2023</p>
     </div>
 </div>
 <hr>
 <div class="row">
     <div class="column">
         <h3><strong>Customer Requirements</strong></h3>
-        <h4><strong>The Customer Must:</strong></h4>
-        <p>To receive LochStudios' Hosting Services, the Customer must:</p>
+        <p>In order to use LochStudios' Hosting Services, there are a few things you need to know:</p>
         <ul>
-            <li>Provide LochStudios with all necessary information and assistance.</li>
-            <li>Have all resources necessary to use the Hosting Services, including hardware, software, and internet access.</li>
-            <li>Not engage in any illegal or unlawful activities, including unauthorized access or interference with third-party systems.</li>
-            <li>Not distribute or create any prohibited material, including pornographic or infringing content.</li>
-            <li>Cooperate with LochStudios and follow their instructions.</li>
+            <li>You must provide us with the information and assistance we need.</li>
+            <li>You'll need your own hardware, software, and internet access to use our services.</li>
+            <li>You agree not to engage in any illegal activities or interfere with others' systems.</li>
+            <li>You must also avoid distributing or creating prohibited content.</li>
+            <li>If we receive a lawful request to cease services or remove content, we'll comply.</li>
         </ul>
-        <p>If LochStudios receives a lawful request to cease services or remove content, they will comply.</p>
         <h3><strong>Backups</strong></h3>
-        <p>LochStudios will preserve data used in connection with the Hosting Services on backup servers.</p>
+        <p>We take backups of your data stored with us to ensure its safety.</p>
         <h3><strong>Invoices</strong></h3>
-        <p>LochStudios will invoice the Customer for all services.</p>
-        <p>If the Customer fails to pay, LochStudios may defer services until payment is received.</p>
+        <p>We'll send you invoices for the services you use. Please make sure to pay them on time. If not, we may pause services until payment is received.</p>
         <h3><strong>Intellectual Property</strong></h3>
-        <p>All content on the site is the property of LochStudios.</p>
+        <p>All content on our website belongs to us. Please don't use it without permission.</p>
         <h3><strong>Links to Other Websites</strong></h3>
-        <p>The site contains links to third-party websites. LochStudios is not responsible for the content or policies of these sites.</p>
+        <p>Our website may contain links to other sites. We're not responsible for the content or policies of those sites.</p>
         <h3><strong>Limitation of Liability</strong></h3>
-        <p>LochStudios and associated parties will not be liable for any damages from your use of the site.</p>
+        <p>We're not responsible for any damages that may occur from your use of our website.</p>
         <h3><strong>Indemnity</strong></h3>
-        <p>By using the site, you agree to indemnify LochStudios against any claims arising from your use of the site.</p>
+        <p>By using our website, you agree to compensate us for any claims that arise from your use of our services.</p>
         <h3><strong>Severability</strong></h3>
-        <p>If any provision of these terms is found to be invalid, the remaining provisions will still apply.</p>
+        <p>If any part of these terms is found to be invalid, the rest will still apply.</p>
         <h3><strong>Changes</strong></h3>
-        <p>These terms may be amended without notice to maintain compliance with the law and site operations.</p>
+        <p>We may update these terms from time to time without notice. Please check back periodically.</p>
         <h3><strong>Termination</strong></h3>
-        <p>The Customer may terminate their contract with LochStudios by providing a written notice of termination at least 7 days prior to the desired termination date.</p>
+        <p>You can terminate your contract with us by providing written notice at least 7 days before you want to cancel.</p>
     </div>
 </div>
 <hr>
