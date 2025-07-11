@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LochStudios | Privacy Policy</title>
-    <link rel="icon" href="https://lscdn.com.au/static/logos/lochstudios/LSLarge.png" type="image/png" />
+    <link rel="icon" href="4803712.png" type="image/png" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/1.0.0/css/bulma.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
@@ -13,7 +13,7 @@
 <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="#">
-            <img src="https://lscdn.com.au/static/logos/lochstudios/LSLarge.png" alt="LochStudios Logo">
+            <img src="4803712.png" alt="LochStudios Logo">
         </a>
 
         <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
@@ -64,7 +64,7 @@
     <div class="container">
         <div class="columns is-vcentered">
             <div class="column is-half">
-                <img src="https://lscdn.com.au/static/logos/lochstudios/4803721/logo.png">
+                <img src="4803721.png">
             </div>
             <div class="column is-half">
                 <h2 class="title">LochStudios Privacy Policy</h2>
