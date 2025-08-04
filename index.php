@@ -119,7 +119,7 @@
           </p>
           <p><strong>Our Phone Numbers:</strong>
             <br>Switch Board (AU): <a href="tel:+61256323092">+61 (2) 5632-3092</a>
-            <br>Switch Board (NZ): <a href="tel:+6498708886">+64 (9) 870-8886</a>
+            <br>Switch Board (NZ): <a href="tel:+6498731233">+64 (9) 873-1233</a>
             <br>Switch Board (USA): <a href="tel:+13158796488">+1 (315) 879-6488</a>
             <br>Switch Board (UK): <a href="tel:+442080899548">+44 2080 899 548</a>
             <br>Remote Support: <a href="tel:1300989567">1300 989 567</a>
@@ -162,7 +162,7 @@
         <strong>A:</strong> We call from one of the following numbers:<br>
                 <strong>Australian Customers: (02) 5632-3092</strong><br>
                 <strong>United Kingdom Customers: 02080 899 548</strong><br>
-                <strong>New Zealand Customers: (09) 870-8886</strong><br>
+                <strong>New Zealand Customers: (09) 873-1233</strong><br>
                 <strong>United States Customers: (315) 879-6488</strong><br>
                 <strong>If we've called you on your Mobile Phone;<br>We might have called you from this number: 0480001064</strong><br>
         If you call us back, the first thing you'll hear is our name, LochStudios.<br>"Thanks for calling LochStudios..." That's how you'll know it's us.
