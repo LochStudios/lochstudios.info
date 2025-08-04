@@ -116,7 +116,7 @@
     <div class="container">
       <div class="has-text-centered mb-6">
         <h3 class="title is-2 gradient-text mb-4">Our Digital Ecosystem</h3>
-        <p class="subtitle is-5 has-text-grey">8 Specialized Websites Serving Your Needs</p>
+        <p class="subtitle is-5 has-text-grey">10 Specialized Websites Serving Your Needs</p>
       </div>
       <div class="columns is-multiline">
         <div class="column is-half">
@@ -297,6 +297,52 @@
               <div class="content">
                 <a href="https://yourhostzone.com/" target="_blank" class="button is-fullwidth modern-button">
                   Visit yourhostzone.com
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="column is-half">
+          <div class="card floating-card mb-5">
+            <div class="card-content">
+              <div class="media">
+                <div class="media-left">
+                  <div class="icon-modern">
+                    <i class="fas fa-video"></i>
+                  </div>
+                </div>
+                <div class="media-content">
+                  <p class="title is-5">YourStreaminTools</p>
+                  <p class="subtitle is-6 has-text-grey">For content creators by content creators</p>
+                </div>
+              </div>
+              <div class="content">
+                <a href="https://yourstreamintools.com/" target="_blank" class="button is-fullwidth modern-button">
+                  Visit yourstreamintools.com
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="column is-half">
+          <div class="card floating-card mb-5">
+            <div class="card-content">
+              <div class="media">
+                <div class="media-left">
+                  <div class="icon-modern">
+                    <i class="fas fa-robot"></i>
+                  </div>
+                </div>
+                <div class="media-content">
+                  <p class="title is-5">BotOfTheSpecter</p>
+                  <p class="subtitle is-6 has-text-grey">Your comprehensive Twitch Chat Bot with A Discord Bot Companion</p>
+                </div>
+              </div>
+              <div class="content">
+                <a href="https://botofthespecter.com/" target="_blank" class="button is-fullwidth modern-button">
+                  Visit botofthespecter.com
                 </a>
               </div>
             </div>

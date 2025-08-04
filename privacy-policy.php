@@ -144,6 +144,16 @@
                                 <strong>• yourhostzone.com</strong> - Hosting domain
                             </div>
                         </div>
+                        <div class="column is-half">
+                            <div class="notification is-light">
+                                <strong>• yourstreamintools.com</strong> - Creator tools
+                            </div>
+                        </div>
+                        <div class="column is-half">
+                            <div class="notification is-light">
+                                <strong>• botofthespecter.com</strong> - Twitch & Discord bots
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
