@@ -313,13 +313,13 @@
                   </div>
                 </div>
                 <div class="media-content">
-                  <p class="title is-5">YourStreaminTools</p>
+                  <p class="title is-5">YourStreamingTools</p>
                   <p class="subtitle is-6 has-text-grey">For content creators by content creators</p>
                 </div>
               </div>
               <div class="content">
-                <a href="https://yourstreamintools.com/" target="_blank" class="button is-fullwidth modern-button">
-                  Visit yourstreamintools.com
+                <a href="https://yourstreamingtools.com/" target="_blank" class="button is-fullwidth modern-button">
+                  Visit yourstreamingtools.com
                 </a>
               </div>
             </div>

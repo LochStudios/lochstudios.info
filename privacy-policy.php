@@ -146,7 +146,7 @@
                         </div>
                         <div class="column is-half">
                             <div class="notification is-light">
-                                <strong>• yourstreamintools.com</strong> - Creator tools
+                                <strong>• yourstreamingtools.com</strong> - Creator tools
                             </div>
                         </div>
                         <div class="column is-half">
