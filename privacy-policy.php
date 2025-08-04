@@ -131,7 +131,7 @@
                         </div>
                         <div class="column is-half">
                             <div class="notification is-light">
-                                <strong>• mystorage-dashboard.com</strong> - Storage panel
+                                <strong>• filesanywhereanytime.com</strong> - Storage panel (Coming Soon)
                             </div>
                         </div>
                         <div class="column is-half">
@@ -142,11 +142,6 @@
                         <div class="column is-half">
                             <div class="notification is-light">
                                 <strong>• yourhostzone.com</strong> - Hosting domain
-                            </div>
-                        </div>
-                        <div class="column is-half">
-                            <div class="notification is-light">
-                                <strong>• yourminecraft.host</strong> - Minecraft hosting
                             </div>
                         </div>
                     </div>

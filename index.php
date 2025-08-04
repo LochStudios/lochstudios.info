@@ -116,7 +116,7 @@
     <div class="container">
       <div class="has-text-centered mb-6">
         <h3 class="title is-2 gradient-text mb-4">Our Digital Ecosystem</h3>
-        <p class="subtitle is-5 has-text-grey">9 Specialized Websites Serving Your Needs</p>
+        <p class="subtitle is-5 has-text-grey">8 Specialized Websites Serving Your Needs</p>
       </div>
       <div class="columns is-multiline">
         <div class="column is-half">
@@ -245,12 +245,12 @@
                 </div>
                 <div class="media-content">
                   <p class="title is-5">Storage Panel</p>
-                  <p class="subtitle is-6 has-text-grey">Secure data management</p>
+                  <p class="subtitle is-6 has-text-grey">Secure data management - Coming Soon</p>
                 </div>
               </div>
               <div class="content">
-                <a href="https://mystorage-dashboard.com/" target="_blank" class="button is-fullwidth modern-button">
-                  Visit mystorage-dashboard.com
+                <a href="https://filesanywhereanytime.com/" target="_blank" class="button is-fullwidth modern-button">
+                  Visit filesanywhereanytime.com
                 </a>
               </div>
             </div>
@@ -297,29 +297,6 @@
               <div class="content">
                 <a href="https://yourhostzone.com/" target="_blank" class="button is-fullwidth modern-button">
                   Visit yourhostzone.com
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="column is-half">
-          <div class="card floating-card mb-5">
-            <div class="card-content">
-              <div class="media">
-                <div class="media-left">
-                  <div class="icon-modern">
-                    <i class="fas fa-cube"></i>
-                  </div>
-                </div>
-                <div class="media-content">
-                  <p class="title is-5">Minecraft Hosting</p>
-                  <p class="subtitle is-6 has-text-grey">Specialized game hosting</p>
-                </div>
-              </div>
-              <div class="content">
-                <a href="https://yourminecraft.host/" target="_blank" class="button is-fullwidth modern-button">
-                  Visit yourminecraft.host
                 </a>
               </div>
             </div>
