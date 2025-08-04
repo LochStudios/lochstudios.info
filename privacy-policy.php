@@ -101,11 +101,6 @@
                     <div class="columns is-multiline">
                         <div class="column is-half">
                             <div class="notification is-light">
-                                <strong>• lochstudios.info</strong> - Main information hub
-                            </div>
-                        </div>
-                        <div class="column is-half">
-                            <div class="notification is-light">
                                 <strong>• packages.lochstudios.com</strong> - Hosting packages
                             </div>
                         </div>
