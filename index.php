@@ -217,17 +217,17 @@
               <div class="media">
                 <div class="media-left">
                   <div class="icon-modern">
-                    <i class="fas fa-radio"></i>
+                    <i class="fas fa-users"></i>
                   </div>
                 </div>
                 <div class="media-content">
-                  <p class="title is-5">Radio Station</p>
-                  <p class="subtitle is-6 has-text-grey">Online broadcasting</p>
+                  <p class="title is-5">Aetia Talent Agency</p>
+                  <p class="subtitle is-6 has-text-grey">Professional talent management</p>
                 </div>
               </div>
               <div class="content">
-                <a href="https://www.fourflavors.net/" target="_blank" class="button is-fullwidth modern-button">
-                  Visit fourflavors.net
+                <a href="https://aetia.com.au/" target="_blank" class="button is-fullwidth modern-button">
+                  Visit aetia.com.au
                 </a>
               </div>
             </div>

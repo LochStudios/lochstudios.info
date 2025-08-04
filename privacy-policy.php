@@ -126,7 +126,7 @@
                         </div>
                         <div class="column is-half">
                             <div class="notification is-light">
-                                <strong>• fourflavors.net</strong> - Radio station
+                                <strong>• aetia.com.au</strong> - Talent agency
                             </div>
                         </div>
                         <div class="column is-half">
