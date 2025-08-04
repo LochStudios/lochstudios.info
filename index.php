@@ -76,7 +76,7 @@
               <h1 class="title is-1 has-text-white mb-4">
                 Welcome to <span class="has-text-warning">LochStudios</span>
               </h1>
-              <h2 class="subtitle is-4 has-text-white-ter mb-5">
+              <h2 class="subtitle is-4 has-text-white mb-5">
                 Your Complete Digital Solutions Partner
               </h2>
               <p class="is-size-5 has-text-white-bis mb-6">
