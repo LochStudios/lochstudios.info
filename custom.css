@@ -3,6 +3,25 @@
   --card-shadow: 0 8px 32px rgba(31, 38, 135, 0.15);
   --glass-bg: rgba(255, 255, 255, 0.05);
   --glass-border: rgba(255, 255, 255, 0.1);
+  --dark-bg: #1a1a1a;
+  --dark-card-bg: #2d2d2d;
+  --dark-text: #ffffff;
+  --dark-text-muted: #b0b0b0;
+}
+
+/* Dark mode base styles */
+body {
+  background-color: var(--dark-bg);
+  color: var(--dark-text);
+}
+
+/* Section backgrounds */
+.section {
+  background-color: var(--dark-bg);
+}
+
+.section.has-background-light {
+  background-color: #2a2a2a !important;
 }
 
 .hero-gradient {
@@ -31,22 +50,45 @@
 }
 
 .modern-navbar {
-  background: rgba(255, 255, 255, 0.95) !important;
+  background: rgba(45, 45, 45, 0.95) !important;
   backdrop-filter: blur(20px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+
+.modern-navbar .navbar-item {
+  color: var(--dark-text) !important;
+}
+
+.modern-navbar .navbar-item:hover {
+  color: #667eea !important;
 }
 
 .floating-card {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   border-radius: 16px;
   border: none;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  background-color: var(--dark-card-bg) !important;
+  color: var(--dark-text);
 }
 
 .floating-card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+}
+
+.floating-card .card-content {
+  background-color: transparent;
+  color: var(--dark-text);
+}
+
+.floating-card .title {
+  color: var(--dark-text) !important;
+}
+
+.floating-card .content {
+  color: var(--dark-text-muted);
 }
 
 .gradient-text {
@@ -85,15 +127,28 @@
 }
 
 .contact-item {
-  background: white;
+  background: var(--dark-card-bg);
   padding: 2rem;
   border-radius: 16px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s ease;
+  color: var(--dark-text);
 }
 
 .contact-item:hover {
   transform: translateY(-4px);
+}
+
+.contact-item .title {
+  color: var(--dark-text) !important;
+}
+
+.contact-item .content {
+  color: var(--dark-text-muted);
+}
+
+.contact-item a {
+  color: #667eea;
 }
 
 .icon-modern {
@@ -107,4 +162,57 @@
   margin-bottom: 1rem;
   color: white;
   font-size: 1.5rem;
+}
+
+/* Notification styles for dark mode */
+.notification.is-light {
+  background-color: #3a3a3a;
+  color: var(--dark-text);
+}
+
+.notification.is-info.is-light {
+  background-color: rgba(102, 126, 234, 0.2);
+  color: var(--dark-text);
+}
+
+.notification.is-warning {
+  background-color: rgba(255, 221, 87, 0.2);
+  color: var(--dark-text);
+}
+
+/* Text color overrides */
+.has-text-grey {
+  color: var(--dark-text-muted) !important;
+}
+
+.has-text-grey-dark {
+  color: var(--dark-text) !important;
+}
+
+.subtitle {
+  color: var(--dark-text-muted) !important;
+}
+
+.title {
+  color: var(--dark-text) !important;
+}
+
+/* Links */
+a {
+  color: #667eea;
+}
+
+a:hover {
+  color: #764ba2;
+}
+
+/* Cards */
+.card {
+  background-color: var(--dark-card-bg);
+  color: var(--dark-text);
+}
+
+.card .card-content {
+  background-color: var(--dark-card-bg);
+  color: var(--dark-text);
 }
