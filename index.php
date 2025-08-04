@@ -133,13 +133,10 @@
           <h4 class="title is-5">Direct contact information for our teams:</h4>
           <p>CUSTOMER CARE: <a href="mailto:customercare@lochstudios.com">customercare@lochstudios.com</a></p>
           <p><strong>SALES:</strong>
-            <br>Phone: <a href="tel:+61266975683">(02) 6697-5683</a>
             <br>Email: <a href="mailto:sales@lochstudios.com">sales@lochstudios.com</a></p>
           <p><strong>SUPPORT</strong>:
-            <br>Phone: <a href="tel:+61266975684">(02) 6697-5684</a>
             <br>Email: <a href="mailto:support@lochstudios.com">support@lochstudios.com</a></p>
           <p><strong>MEDIA</strong>:
-            <br>Phone: <a href="tel:+61256546400">(02) 5654-6400</a>
             <br>Email: <a href="mailto:media@lochstudios.com">media@lochstudios.com</a></p>
           <h5 class="title is-6">LSPCR - Computer Work Shop Contact Information:</h5>
           <p><strong>Phone:</strong> <a href="tel:+61256112099">(02) 5611-2099</a>
