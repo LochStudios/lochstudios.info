@@ -482,11 +482,11 @@
                   <div class="content">
                     <p class="mb-4">If you can't find the right department number, our reception team will connect you with the right person.</p>
                     <div class="has-text-centered">
-                      <a href="tel:+61256546402" class="button modern-button is-large">
+                      <a href="tel:+61272297422" class="button modern-button is-large">
                         <span class="icon">
                           <i class="fas fa-phone"></i>
                         </span>
-                        <span>Call Reception: (02) 5654-6402</span>
+                        <span>Call Reception: (02) 7229-7422</span>
                       </a>
                     </div>
                     <p class="has-text-grey mt-4">Make sure you provide current and correct information. We'll be in touch within 1 business day.</p>
