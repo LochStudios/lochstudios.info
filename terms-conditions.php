@@ -314,8 +314,7 @@
             <hr style="background-color: rgba(255,255,255,0.1);">
             <p class="has-text-grey-light">
                 Copyright &copy; <?php echo date("Y"); ?> All rights reserved.<br>
-                <strong class="has-text-white">LochStudios</strong> and any of <strong class="has-text-white">LochStudios</strong> subsidiaries are registered under ABN: <strong class="has-text-warning">20 447 022 747</strong>.<br>
-                <strong class="has-text-white">LS Computer Repair</strong> is registered under family partnership ABN: <strong class="has-text-warning">78 341 881 708</strong>.
+                <strong class="has-text-white">LochStudios</strong> and any of <strong class="has-text-white">LochStudios</strong> subsidiaries are registered under ABN: <strong class="has-text-warning">20 447 022 747</strong>.
             </p>
         </div>
     </div>
