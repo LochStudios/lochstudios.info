@@ -41,10 +41,10 @@ function uuidv4() {
     </div>
     <div id="navbarBasicExample" class="navbar-menu">
         <div class="navbar-start">
-            <a class="navbar-item has-text-weight-medium <?php echo ($activePage === 'home') ? 'is-active' : ''; ?>" href="index.php#about">About</a>
-            <a class="navbar-item has-text-weight-medium <?php echo ($activePage === 'home') ? 'is-active' : ''; ?>" href="index.php#websites">Our Websites</a>
-            <a class="navbar-item has-text-weight-medium <?php echo ($activePage === 'home') ? 'is-active' : ''; ?>" href="index.php#contact">Contact</a>
-            <a class="navbar-item has-text-weight-medium <?php echo ($activePage === 'home') ? 'is-active' : ''; ?>" href="index.php#faq">FAQs</a>
+            <a class="navbar-item has-text-weight-medium" href="index.php#about">About</a>
+            <a class="navbar-item has-text-weight-medium" href="index.php#websites">Our Websites</a>
+            <a class="navbar-item has-text-weight-medium" href="index.php#contact">Contact</a>
+            <a class="navbar-item has-text-weight-medium" href="index.php#faq">FAQs</a>
             <a class="navbar-item has-text-weight-medium <?php echo ($activePage === 'privacy') ? 'is-active' : ''; ?>" href="privacy-policy.php">Privacy Policy</a>
             <a class="navbar-item has-text-weight-medium <?php echo ($activePage === 'terms') ? 'is-active' : ''; ?>" href="terms-conditions.php">Terms &amp; Conditions</a>
         </div>
