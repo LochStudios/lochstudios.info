@@ -316,7 +316,7 @@ ob_start();
         </div>
       </div>
       <div class="contact-item">
-        <div class="icon-modern"></div>
+        <div class="icon-modern">
           <i class="fas fa-envelope"></i>
         </div>
         <h4 class="title is-5">Email Support</h4>
