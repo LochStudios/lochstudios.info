@@ -22,7 +22,7 @@ ob_start();
                         Welcome to LochStudios! These terms and conditions are important, so please read them carefully. By using our website, you agree to follow these rules.
                     </p>
                     <div class="notification is-info is-light">
-                        <strong>Effective Date:</strong> 22nd day of April, 2024
+                        <strong>Effective Date:</strong> 22nd day of October, 2025
                     </div>
                     <div class="icon-modern mb-4">
                         <i class="fas fa-file-contract"></i>
@@ -173,6 +173,24 @@ ob_start();
                         <h3 class="title is-4">Termination</h3>
                         <div class="content">
                             <p>You can terminate your contract with us by providing written notice at least 7 days before you want to cancel.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="column is-half">
+                <div class="card floating-card">
+                    <div class="card-content">
+                        <div class="icon-modern mb-4">
+                            <i class="fas fa-heart"></i>
+                        </div>
+                        <h3 class="title is-4">Non-Profit Discount</h3>
+                        <div class="content">
+                            <p class="mb-3">We believe in supporting non-profit organizations and charities:</p>
+                            <ul>
+                                <li>A 40% discount is applied when you sign up and verify your non-profit status.</li>
+                                <li>After verification, the 40% discount is applied to all orders on your account.</li>
+                                <li>To receive the 40% discount, all services must be pre-paid for 12 months (1 year) at a time.</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
